@@ -5,6 +5,7 @@
 
 int main()
 {
+    std::cout << "delete" << std::endl;
     std::cout << "main change" << std::endl;
     std::cout << "Hello World!\n";
 }
